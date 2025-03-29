@@ -1,0 +1,14 @@
+[
+    {
+      "file": "sample_paper.pdf",
+      "extracted_info": {
+        "research_problem": "The paper does not explicitly state a specific research problem. It seems to focus on providing guidance and steps for writing an academic research paper in general.",
+        "proposed_method": "The paper outlines a method for writing an academic research paper, which includes steps such as choosing a topic, researching the topic, making an outline, and writing the paper itself.",
+        "datasets": "No specific datasets are mentioned.",
+        "benchmarks": "No benchmark tasks are described.",
+        "code_links": "No code links provided.",
+        "key_results": "The paper does not present any specific results or metrics."
+      }
+    }
+  ]
+  
